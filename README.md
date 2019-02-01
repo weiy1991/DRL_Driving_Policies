@@ -1,2 +1,2 @@
-# DRL_HRA_Driving_Policies
-HRA based DRL method for highway driving polices
+# DRL_Driving_Policies
+MRA based DRL method for highway driving polices
