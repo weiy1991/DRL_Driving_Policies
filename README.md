@@ -8,7 +8,7 @@ In this paper, we decomposed the single reward architecture to multi-reward arch
 
 The detalied architecture of the Q-network is as following:
 
-![IV2018](./image_introduction/overview.jpg)
+![IV2019](./image_introduction/overview.jpg)
 
 The baseline comes from the project [DRL-based-SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl)
 
