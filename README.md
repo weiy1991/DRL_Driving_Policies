@@ -23,4 +23,4 @@ Here I use python3.6 with anaconda3. You can configure your own python environme
 
 [Link of demo by MRA based high way driving policies](https://ieeexplore.ieee.org/document/8500645)
 
-<img src="./image_introduction/demo.gif" alt="Result(Before Training)" style="width: 480px;"/>
+<img src="./image_introduction/demo.gif" alt="Demo of testing" style="width: 480px;"/>
