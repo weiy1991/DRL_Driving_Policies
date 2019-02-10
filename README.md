@@ -21,6 +21,6 @@ This requires:
 
 Here I use python3.6 with anaconda3. You can configure your own python environment as you want.
 
-[Link of demo by MRA based high way driving policies](https://ieeexplore.ieee.org/document/8500645)
+[Link of demo by MRA based high way driving policies](https://youtu.be/25BY62HZVnI)
 
 <img src="./image_introduction/demo.gif" alt="Demo of testing" style="width: 480px;"/>
