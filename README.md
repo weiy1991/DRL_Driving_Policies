@@ -20,3 +20,7 @@ This requires:
 * python3.6
 
 Here I use python3.6 with anaconda3. You can configure your own python environment as you want.
+
+[Link of demo by MRA based high way driving policies](https://ieeexplore.ieee.org/document/8500645)
+
+<img src="./image_introduction/demo.gif" alt="Result(Before Training)" style="width: 480px;"/>
