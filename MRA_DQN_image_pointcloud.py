@@ -38,25 +38,7 @@ print("Sensor data (LIDAR): \n{}".format(env_info.vector_observations[0]))
 # Examine the observation space for the default brain
 Num_obs = len(env_info.visual_observations)
 
-print("Image data (Front Camera): \n{}")
-if Num_obs > 1:
-    f, axarr = plt.subplots(1, Num_obs, figsize=(20,10))
-    for i, observation in enumerate(env_info.visual_observations):
-        if observation.shape[3] == 3:
-            axarr[i].imshow(observation[0,:,:,:])
-            axarr[i].axis('off')
-        else:
-            axarr[i].imshow(observation[0,:,:,0])
-            axarr[i].axis('off')
-else:
-    f, axarr = plt.subplots(1, Num_obs)
-    for i, observation in enumerate(env_info.visual_observations):
-        if observation.shape[3] == 3:
-            axarr.imshow(observation[0,:,:,:])
-            axarr.axis('off')
-        else:
-            axarr.imshow(observation[0,:,:,0])
-            axarr.axis('off')
+
 
 
 
