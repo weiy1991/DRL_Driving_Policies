@@ -19,8 +19,9 @@ This requires:
 * tensorflow1.4
 * python3.6
 
+
 Here I use python3.6 with anaconda3. You can configure your own python environment as you want.
 
-[Link of demo by MRA based high way driving policies](https://1drv.ms/v/s!Al-lgvnvaUomg9Y0knTqcVPNHbenlA)
+[The link of demo by MRA based high way driving policies](https://1drv.ms/v/s!Al-lgvnvaUomg9Y0knTqcVPNHbenlA)
 
 <img src="./image_introduction/demo.gif" alt="Demo of testing" style="width: 480px;"/>
